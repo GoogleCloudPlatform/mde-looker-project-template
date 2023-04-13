@@ -7,7 +7,7 @@ constant: explore_name_prefix {
 }
 
 remote_dependency: mde_sdk {
-  url: " git@github.com:googlecloudplatform/mde-looker-sdk.git"
+  url: "git@github.com:googlecloudplatform/mde-looker-sdk.git"
   ref: "v.2.0.0"
 }
 
