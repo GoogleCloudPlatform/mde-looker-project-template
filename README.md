@@ -6,7 +6,9 @@ A template for bootstrapping a new Looker project for Manufacturing Data Engine.
 
 ## Usage
 
-[Create a new Looker project](https://cloud.google.com/looker/docs/create-projects#cloning_a_public_git_repository) with the option 'Clone Public Git Repository' and supply the URL of this repository. 
+- [Create a new Looker project](https://cloud.google.com/looker/docs/create-projects#cloning_a_public_git_repository) with the option 'Clone Public Git Repository' and supply the URL of this repository. 
+- Make a copy of the `example.manifest.lkml` file and rename the copy to `manifest.lkml`
+- Provide values for the required constants in the `manifest.lkml` file
 
 ## Contributing
 
