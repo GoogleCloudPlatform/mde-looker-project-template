@@ -1,7 +1,7 @@
 connection: "@{looker_connection}"
 
 ########## DEFAULT MDE EXPLORES ##########
-include: "//mde_looker_sdk/get_started/explores/default.explore.lkml"
+include: "//mde_lookml_lib/mde_packages/default/explores/default.explore.lkml"
 
 ############ CUSTOM VIEWS ################
 include: "/views/dimension/*.view"

@@ -6,8 +6,8 @@ constant: explore_name_prefix {
   value: "<explore_name_prefix>"
 }
 
-remote_dependency: mde_sdk {
-  url: "git@github.com:googlecloudplatform/mde-looker-sdk.git"
+remote_dependency: mde_lookml_lib {
+  url: "git@github.com:googlecloudplatform/mde-lookml-lib.git"
   ref: "v.2.0.0"
 }
 

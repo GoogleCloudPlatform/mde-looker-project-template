@@ -2,7 +2,7 @@
 
 ## Overview
 
-A template for bootstrapping a new Looker project for Manufacturing Data Engine. The template declares a dependency on the MDE Looker SDK, provides a recommended folder structure, and supplies an example manifest and default model file. 
+A template for bootstrapping a new Looker project for Manufacturing Data Engine. The template declares a dependency on the MDE LookML Library, provides a recommended folder structure, and supplies an example manifest and default model file. 
 
 ## Usage
 
