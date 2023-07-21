@@ -6,7 +6,7 @@ A template for bootstrapping a new Looker project for Manufacturing Data Engine.
 
 ## Usage
 
-Please see [MDE documentation](https://gmde.cloud) for how to use the Looker Template for Manufacturing Data Engine.
+Please see [MDE documentation](https://gmde.cloud) for how to use the Looker Project Template for Manufacturing Data Engine.
 
 ## Contributing
 
