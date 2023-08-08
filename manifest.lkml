@@ -4,7 +4,7 @@ constant: looker_connection {
 
 remote_dependency: mde_lookml_lib {
   url: "git@github.com:googlecloudplatform/mde-lookml-lib.git"
-  ref: "v2.0.0"
+  ref: "v2.0.1"
   override_constant: default_pckg_explore_name_prefix {
     value: "MDE"
   }
