@@ -2,11 +2,15 @@ constant: looker_connection {
   value: "mde-bigquery-connection"
 }
 
+constant: explore_name_prefix {
+  value: "MDE"
+}
+
 remote_dependency: mde_lookml_lib {
   url: "git@github.com:googlecloudplatform/mde-lookml-lib.git"
   ref: "v2.0.2"
   override_constant: default_pckg_explore_name_prefix {
-    value: "MDE"
+    value: "@{explore_name_prefix}"
   }
   override_constant: default_pckg_tag_metadata_bucket_number {
     value: "<TAG_METADATA_BUCKET_NUMBER>"
