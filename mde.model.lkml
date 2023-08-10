@@ -7,8 +7,8 @@ include: "//mde_lookml_lib/mde_packages/default/explores/default.explore.lkml"
 include: "//mde_lookml_lib/mde_packages/default/dashboards/*.dashboard"
 
 ############# CUSTOM VIEWS #############
-include: "/views/dimension/*.view"
-include: "/views/fact/*.view"
+#include: "/views/dimension/*.view"
+#include: "/views/fact/*.view"
 
 ########### CUSTOM EXPLORES #############
-include: "/explores/*.explore"
+#include: "/explores/*.explore"
