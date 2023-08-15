@@ -12,3 +12,6 @@ include: "//mde_lookml_lib/mde_packages/default/dashboards/*.dashboard"
 
 ########### CUSTOM EXPLORES #############
 #include: "/explores/*.explore"
+
+########## CUSTOM DASHBOARDS ############
+#include: "/dashboards/*.dashboard"
