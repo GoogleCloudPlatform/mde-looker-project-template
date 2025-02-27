@@ -2,7 +2,13 @@
 
 ## Overview
 
-A template for bootstrapping a new Looker project for Manufacturing Data Engine. The template declares a dependency on the MDE LookML Library, provides a recommended folder structure, and supplies a `manifest.lkml` and a default `mde.model` file.
+ This repository provides a standardized Looker project template designed to streamline the implementation of analytics solutions for Google Cloud's Manufacturing Data Engine (MDE). By encapsulating best practices and pre-configuring essential dependencies, this template enables rapid development and deployment of robust analytical dashboards and explorations.
+
+ ## Key Features and Benefits
+
+* **Standardized Project Structure:** Predefined folder hierarchy for organized LookML development, promoting collaboration and maintainability.
+* **Ready-to-Deploy Manifest Configuration:** `manifest.lkml` file pre-populated with MDE library dependencies for immediate project deployment.
+* **Baseline Model Definition:** `mde.model` file providing a foundational structure for data exploration and analysis.
 
 ## Usage
 
